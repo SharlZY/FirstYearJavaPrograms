@@ -1,0 +1,5 @@
+4
+make1, 1, 0, person1, true, borrower1 
+make2, 2, 2, person2, false,  
+make3, 3, 2, person3, true, borrower3 
+make4, 4, 1, person4, false,
